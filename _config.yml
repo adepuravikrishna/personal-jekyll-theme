@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://adepuravikrishna.github.io"
+url: "https://panossakkos.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Ravi Adepu"
-title: "{ Ravi Adepu }"
-description: "Blog and website of Ravi Adepu, blogging mainly for tech. Opinions expressed are mine."
-keywords: "ravi, adepu, personal, jekyll, theme"
+author: "John Smith"
+title: "{ John Smith }"
+description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "adepuravi123@gmail.com"
+email: "your@email.here"
 
 ################
 # Author Blurb #
@@ -136,7 +136,7 @@ email: "adepuravi123@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Ravi Adepu is an awesome person. He lives in Santaclara, where he works on two-dimensional engineering projects. In his spare time, Ravi likes to eat cotton candy."
+author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 
 ##################
