@@ -161,14 +161,6 @@ social:
 
 404-img: "/img/labtocat.png"
 
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: Ravi Adepu
-keybase-in-social: True
-keybase-in-footer: True
-
 ################################################################################
 
 # NB! Tread carefully if you want to change the variables below this point!
